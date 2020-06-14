@@ -1,9 +1,12 @@
 # Greenlight
+# Clean landing page in Russian language.
+(На руссом языке на главной странице оставлена только надпись "Добро пожаловать")
 
 ![Travis CI](https://travis-ci.org/bigbluebutton/greenlight.svg?branch=master)
 ![Coverage
 !Status](https://coveralls.io/repos/github/bigbluebutton/greenlight/badge.svg?branch=master)
 ![Docker Pulls](https://img.shields.io/docker/pulls/bigbluebutton/greenlight.svg)
+
 
 Greenlight is a simple front-end interface for your BigBlueButton server. At it's heart, Greenlight provides a minimalistic web-based application that allows users to:
 
